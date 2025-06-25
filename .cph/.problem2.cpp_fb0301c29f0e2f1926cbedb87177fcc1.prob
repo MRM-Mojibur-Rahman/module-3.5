@@ -1,0 +1,1 @@
+{"name":"Local: problem2","url":"c:\\programming\\data structure\\module-3.5\\problem2.cpp","tests":[{"id":1750855613035,"input":"7\n-7 1 5 2 -4 3 0\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\programming\\data structure\\module-3.5\\problem2.cpp","group":"local","local":true}
